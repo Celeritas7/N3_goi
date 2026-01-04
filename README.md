@@ -1,2 +1,2 @@
-# N3-goi
-JLPT N3 Vocabulary App
+# N1_goi
+N1 goi vocabulary study
